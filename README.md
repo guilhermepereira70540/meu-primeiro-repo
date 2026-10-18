@@ -1,3 +1,5 @@
+Texto alterado pelo Programador 1
+
 Iniciando em Versionamento
 
 Este é meu primeiro README que está sendo hospedado no GitHub, conforme solicitado na atividade 06.
